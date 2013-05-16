@@ -22,3 +22,18 @@ When Finder opens, you will see multiple folders. Drag jQuery.mode into the Mode
 
 If you would like to use the jQuery clips you can also add them here by dragging the jQuery.clips file into the Clips directory. If you use jQuery in noConflict mode, only drag the jQuery_NoConflict.clips file into the Clips directory, not both. If you dont know whether or not you are using jQuery in noConflict mode, you are probably not using noConflict - just use the standard jQuery.clips file.
 
+Clip Instructions
+-----------------
+
+Clips are default functionality within Coda. I have created a few snippets to help speed up the development process. To use a clip simply type the clip shortcode and **press [TAB]**. You can also open the clips sidebar from Window > Clips and drag a clip to the document.
+
+|Clip Shortcode|Output|
+|--------------|------|
+| $# | Creates a jQuery ID Selector |
+| $. | Creates a jQuery Class Selector |
+| $doc | Creates a function that fires when the DOM has loaded |
+| $win | Creates a function that fires when the window has loaded |
+| $ajax | Creates a standard AJAX call |
+| $plugin | Creates a plugin template |
+| $equalheight | Creates a snippet that makes all selected elements the same height (the largest height element) |
+
