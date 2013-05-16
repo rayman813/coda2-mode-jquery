@@ -37,3 +37,5 @@ Clips are default functionality within Coda. I have created a few snippets to he
 | $plugin | Creates a plugin template |
 | $equalheight | Creates a snippet that makes all selected elements the same height (the largest height element) |
 
+If you have any additions you would like to make, you can either comment here, send a pull request or contact me on my website: www.matthewray.com
+
