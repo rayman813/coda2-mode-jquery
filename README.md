@@ -8,7 +8,9 @@ This repository contains a custom syntax mode for jQuery in Coda 2. The mode inc
 
 Installation
 ------------
-To install this mode you must navigate to the Coda 2 install directory and copy the .mode file into the Modes folder.
+**To install this mode automatically** simply download the files, unzip them and open the .mode file with Coda 2. You can do the same with the clips - see note below.
+
+**To install this mode manually** you must navigate to the Coda 2 install directory and copy the .mode file into the Modes folder.
 
 Open Terminal and run the following command:
 
@@ -20,7 +22,9 @@ Then, to open the directory in Finder enter this command:
 
 When Finder opens, you will see multiple folders. Drag jQuery.mode into the Modes folder. 
 
-If you would like to use the jQuery clips you can also add them here by dragging the jQuery.clips file into the Clips directory. If you use jQuery in noConflict mode, only drag the jQuery_NoConflict.clips file into the Clips directory, not both. If you dont know whether or not you are using jQuery in noConflict mode, you are probably not using noConflict - just use the standard jQuery.clips file.
+If you would like to use the jQuery clips you can also add them here by dragging the jQuery.clips file into the Clips directory. 
+
+**NOTE**: If you use jQuery in noConflict mode, use only the jQuery_NoConflict.clips file, not both. If you dont know whether or not you are using jQuery in noConflict mode, you are probably not using noConflict - just use the standard jQuery.clips file.
 
 Clip Instructions
 -----------------
