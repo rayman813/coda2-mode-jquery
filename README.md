@@ -24,8 +24,6 @@ When Finder opens, you will see multiple folders. Drag jQuery.mode into the Mode
 
 If you would like to use the jQuery clips you can also add them here by dragging the jQuery.clips file into the Clips directory. 
 
-**NOTE**: If you use jQuery in noConflict mode, use only the jQuery_NoConflict.clips file, not both. If you dont know whether or not you are using jQuery in noConflict mode, you are probably not using noConflict - just use the standard jQuery.clips file.
-
 Clip Instructions
 -----------------
 
@@ -39,7 +37,8 @@ Clips are default functionality within Coda. I have created a few snippets to he
 | $win | Creates a function that fires when the window has loaded |
 | $ajax | Creates a standard AJAX call |
 | $plugin | Creates a plugin template |
-| $equalheight | Creates a snippet that makes all selected elements the same height (the largest height element) |
+
+**NOTE**: If you are using jQuery in noConflict mode simply prepend a 'j' before the clip. For example '$doc' would become 'j$doc'.
 
 If you have any additions you would like to make, you can either comment here, send a pull request or contact me on my website: www.matthewray.com
 
