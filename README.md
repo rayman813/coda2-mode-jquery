@@ -38,7 +38,7 @@ Clips are default functionality within Coda. I have created a few snippets to he
 | $ajax | Creates a standard AJAX call |
 | $plugin | Creates a plugin template |
 
-**NOTE**: If you are using jQuery in noConflict mode simply prepend a 'j' before the clip. For example '$doc' would become 'j$doc'.
+**NOTE**: If you are using jQuery in noConflict mode simply prepend a `j` before the clip. For example `$doc` would become `j$doc`.
 
 If you have any additions you would like to make, you can either comment here, send a pull request or contact me on my website: www.matthewray.com
 
