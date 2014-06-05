@@ -1274,6 +1274,26 @@
 		</dict>
 		<dict>
 			<key>ID</key>
+			<string>off</string>
+			<key>MoveCursor</key>
+			<string>1</string>
+			<key>PostString</key>
+			<string>()</string>
+			<key>String</key>
+			<string>off</string>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<string>on</string>
+			<key>MoveCursor</key>
+			<string>1</string>
+			<key>PostString</key>
+			<string>()</string>
+			<key>String</key>
+			<string>on</string>
+		</dict>
+		<dict>
+			<key>ID</key>
 			<string>ChooseColorDlg</string>
 			<key>MoveCursor</key>
 			<string>1</string>
@@ -4941,6 +4961,24 @@
 			<string>onFinish</string>
 			<key>String</key>
 			<string>onFinish</string>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<string>finish</string>
+			<key>String</key>
+			<string>finish</string>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<string>addBack</string>
+			<key>String</key>
+			<string>addBack</string>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<string>parseHTML</string>
+			<key>String</key>
+			<string>parseHTML</string>
 		</dict>
 		<dict>
 			<key>ID</key>
